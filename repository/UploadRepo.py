@@ -49,3 +49,4 @@ def insert_excel_data(content):
         "total data from excel": len(list_products),
         "data": list_products
     }
+    return resp
